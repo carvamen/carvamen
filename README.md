@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=TU_NOMBRE&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" alt="Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Carlos Ávalos&fontSize=48&fontColor=ffffff&fontAlignY=38" width="100%" alt="Banner">
 
-<a href="https://github.com/carvamen">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=700&lines=TU_ROL+o+a+qué+te+dedicas;Tu+frase+favorita+o+lema" alt="Texto animado">
-</a>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Readex+Pro&weight=500&duration=4999&pause=1000&color=B20000&center=true&width=435&lines=Just+creating+stuff%2C+thriving+on+curiosity)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
@@ -16,11 +18,11 @@
 
 ## `$ whoami`
 
-Hola, soy **TU_NOMBRE** 👋
-TU_DESCRIPCIÓN_CORTA en una o dos líneas.
+Heii, soy Carlos o/" 
 
-> *"Tu frase aquí."*
+
+> *"Curiosity is just courage wearing a lighter coat. Follow it anywhere, even when you don’t know how you’ll get back."*
 
 <div align="center">
-<sub>Hecho con 💖 desde TU_LUGAR · @carvamen</sub>
+<sub>@carvamen</sub>
 </div>
