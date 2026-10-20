@@ -7,7 +7,7 @@
 
 ---
 
-## `🥐 about`
+## `about 🥐`
 
 Heii, soy Carlos o/
 
@@ -16,3 +16,13 @@ Heii, soy Carlos o/
 <div align="center">
 <sub>@carvamen</sub>
 </div>
+
+---
+![](https://github-readme-stats.shion.dev/api?username=carvamen&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=carvamen&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=carvamen&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
