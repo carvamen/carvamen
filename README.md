@@ -11,7 +11,7 @@
 
 Heii, soy Carlos o/
 
-Computer Engineering student @ TEC. Passionate about building interactive experiences (VR, Unity/C#) and solving complex problems with solid backend architectures (Node.js, SQL).
+Computer Engineering student @ TEC.
 
 > *"Curiosity is just courage wearing a lighter coat. Follow it anywhere, even when you don't know how you'll get back."*
 
