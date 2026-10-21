@@ -9,7 +9,7 @@
 
 ## `about 🥐`
 
-Heii, soy Carlos o/
+Heyy, soy Carlos o/
 
 Computer Engineering student @ TEC.
 
